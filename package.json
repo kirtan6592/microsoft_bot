@@ -1,0 +1,22 @@
+{
+  "name": "mychatboat",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "and",
+    "microsoft",
+    "bot"
+  ],
+  "author": "Kirtan Chhatbar",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "botbuilder": "^3.8.0-beta8",
+    "restify": "^7.2.1"
+  }
+}
